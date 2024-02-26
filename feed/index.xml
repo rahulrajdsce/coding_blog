@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Coding Blog</title>
+	<atom:link href="https://rahulrajdsce.github.io/coding_blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rahulrajdsce.github.io/coding_blog</link>
+	<description></description>
+	<lastBuildDate>Sat, 24 Feb 2024 03:07:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>python tutorial</title>
+		<link>https://rahulrajdsce.github.io/coding_blog/hello-world/</link>
+					<comments>https://rahulrajdsce.github.io/coding_blog/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Rahul]]></dc:creator>
+		<pubDate>Thu, 22 Feb 2024 05:16:57 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">https://rahulrajdsce.github.io/coding_blog/?p=1</guid>
+
+					<description><![CDATA[Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.]]></description>
+										<content:encoded><![CDATA[
+<p>Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rahulrajdsce.github.io/coding_blog/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
